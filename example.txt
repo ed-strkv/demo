@@ -1,2 +1,4 @@
-Hello GIT!
+
+Hello! I am from new branch!
+
 
